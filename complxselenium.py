@@ -29,13 +29,7 @@ def get_name_list():
     for i in section:
         name = i.find('div',class_='name').text
         name_list.append(name)
-#to  get info for each people usin this site api to retrive data.
-def save_data(data):
-    person_info = data.find('')
-    date = data.find_all('')
-    for i in data:
-        dir.write('{0},{1}\n'.format(person_info,date))
-
-get_name_list()
-print(name_list)
-print(len(name_list))
+f_dir = open('slug_list.csv','a')
+for i in name_list:
+    f_dir.write('{0}\n'.format(i))
+f_dir.close()
