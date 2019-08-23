@@ -37,7 +37,7 @@ def process(data):
   visit_date_list = []
   for i in visit:
     visit_date_list.append(i.get('date'))
-  Full_data = ' {0},{1},{2},{3}\n\n'.format(full_name,title,org_name,visit_date_list)
+  Full_data = ' {0},{1},{2},{3}\n'.format(full_name,title,org_name,visit_date_list)
   product_file.write(Full_data)
   return "Done"
 
