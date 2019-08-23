@@ -1,0 +1,421 @@
+Name,Title,Organaization,Visit data
+ Marillyn Hewson,Chairwoman, President. CEO,Lockheed Martin Aerospace ,['2018-03-22', '2017-06-30', '2017-02-24', '2017-02-23', '2017-01-23']
+
+ Mary Barra,CEO,General Motors Automotive ,['2017-03-15', '2017-04-11', '2017-02-03', '2017-01-24']
+
+ Elon Musk,CEO,Tesla and others Automotive ,[None, '2017-03-08', '2017-02-03', '2017-01-23']
+
+ Andrew Liveris,Chairman and CEO,Dow Chemical Manufacturing ,['2017-03-17', '2017-02-24', '2017-02-23', '2017-01-23']
+
+ Jay Timmons,President and CEO,National Association of Manufacturers Manufacturing ,['2018-04-12', '2017-10-31', '2017-10-06', '2017-09-29', '2017-03-31']
+
+ Ginni Rometty,CEO,IBM Technology ,['2017-06-19', '2017-04-11', '2017-03-17', '2017-02-03']
+
+ Kenneth C Frazier,CEO,Merck Health ,['2017-02-24', '2017-02-23', '2017-01-31']
+
+ Stephen Schwarzman,Chairman and CEO,Blackstone Finance ,['2017-04-11', '2017-04-04', '2017-02-03']
+
+ Daniel Yergin,Co-Founder and Chairman,Cambridge Energy Research Associate Energy ,['2017-06-29', '2017-04-11', '2017-02-03']
+
+ Mark Sutton,Chairman and CEO,International Paper Manufacturing ,['2017-02-24', '2017-02-23', '2017-01-23']
+
+ John Ferriola,Chairman, President and CEO,Nucor Corporation Manufacturing ,['2017-04-20', '2017-02-23', '2017-01-23']
+
+ Mario Longhi,CEO,U.S. Steel Manufacturing ,['2017-04-20', '2017-02-24', '2017-02-23']
+
+ Robert Kraft,CEO,Kraft Group Sports ,['2017-04-19', '2017-03-19', '2017-02-10']
+
+ Mark Fields,Then-President and CEO,Ford Automotive ,['2017-03-15', '2017-02-23', '2017-01-23']
+
+ Ike Perlmutter,CEO,Marvel Entertainment Entertainment ,['2017-04-27', '2017-03-18', '2017-02-07']
+
+ Dennis Muilenburg,CEO,Boeing Aerospace ,['2018-03-14', '2017-06-30', '2017-02-17']
+
+ Christopher Ruddy,CEO,Newsmax Media Media ,['2017-04-08', '2017-03-18', '2017-03-01']
+
+ Rupert Murdoch,Executive Chairman,FOX News Media ,['2017-08-03', '2017-05-04', None]
+
+ Zippy Duvall,President,American Farm Bureau Agriculture ,['2017-10-31', '2017-04-25', '2017-02-28']
+
+ Sergio Marchionne,CEO,Fiat Chrysler Automotive ,['2017-03-15', '2017-01-24']
+
+ Doug McMillon,President and CEO,Walmart Retail ,['2017-04-11', '2017-02-03']
+
+ Mark Weinberger,CEO,Ernst and Young Finance ,['2017-04-11', '2017-02-03']
+
+ Larry Fink,Chairman and CEO,BlackRock Finance ,['2017-04-11', '2017-02-03']
+
+ Jack Welch,Former Chairman and CEO,General Electric Energy ,['2017-04-11', '2017-02-03']
+
+ Paul Atkins,CEO,Patomak Global Partners Finance ,['2017-04-11', '2017-02-03']
+
+ Adebayo Ogunlesi,Chairman and Managing Partner,Global Infrastructure Partners Finance ,['2017-04-11', '2017-02-03']
+
+ Rich Lesser,President and CEO,Boston Consulting Group Finance ,['2017-04-11', '2017-02-03']
+
+ Jim McNerney,Former Chairman, President and CEO,Boeing Aerospace ,['2017-04-11', '2017-02-03']
+
+ Brian Krzanich,CEO,Intel Technology ,['2017-06-19', '2017-02-08']
+
+ Julie Sweet,CEO,Accenture North America Communications/consulting ,['2017-06-19', '2017-02-13']
+
+ Robert Murray,Chairman, President and CEO,Murray Energy Energy ,['2017-03-28', '2017-02-16']
+
+ Jeff Immelt,CEO,General Electric Energy ,['2017-06-22', '2017-02-23']
+
+ Michael Dell,CEO,Dell Technology ,['2017-02-23', '2017-01-23']
+
+ Inge Thulin,CEO, President, Chairman,3M Manufacturing ,['2017-02-24', '2017-02-23']
+
+ Jeff Fettig,Chairman and CEO,Whirlpool Manufacturing ,['2017-02-23', '2017-01-23']
+
+ Wendell Weeks,CEO,Corning, Inc. Manufacturing ,['2017-02-23', '2017-01-23']
+
+ Juan Luciano,Chairman, President and CEO,Archer Daniels Midland Food ,['2017-02-24', '2017-02-23']
+
+ Greg Hayes,Chairman,United Technologies Technology ,['2017-02-24', '2017-02-23']
+
+ Joseph Swedish,Chairman, President and CEO,Anthem Health ,['2017-03-14', '2017-02-27']
+
+ Rob Nichols,CEO,ABA Finance ,['2017-10-31', '2017-03-09']
+
+ Cam Fine,President and CEO,ICBA Finance ,['2017-05-01', '2017-03-09']
+
+ Joe Kaeser,CEO,Siemens AG Manufacturing ,['2017-03-17']
+
+ Tim Cook,CEO,Apple Technology ,['2017-05-30']
+
+ Chris Spear,President and CEO,American Trucking Association Transportation ,['2017-10-31', '2017-03-23']
+
+ Lisa Phillips,Owner,Celebrate Us Retail ,['2017-03-28', '2017-03-27']
+
+ Dyan Gibbens,Owner,Trumbull Unmanned Energy ,['2017-03-27']
+
+ Richard LeFrak,CEO,LeFrak Real Estate ,['2017-03-08', '2017-02-11']
+
+ Steve Roth,CEO,Vornado Realty Trust Real Estate ,['2017-04-04', '2017-03-08']
+
+ Matthew Levatich,CEO,Harley Davidson Automotive ,['2017-06-13', '2017-02-02']
+
+ Ajay Banga,President and CEO,Mastercard Finance ,['2017-04-04']
+
+ Bill McDermott,CEO,SAP Technology ,['2018-01-25', '2017-06-19']
+
+ Jack Gerard,President and CEO,American Petroleum Institute Energy ,['2017-10-31', '2017-06-29']
+
+ Jim Yong Kim,President,World Bank Finance ,['2017-07-08', '2017-07-07']
+
+ David Farr,Chairman and CEO,Emerson Electric Manufacturing ,['2017-09-29', '2017-02-23']
+
+ Klaus Kleinfeld,Former Chairman and CEO,Arconic Manufacturing ,['2017-01-23']
+
+ Roger Karr,Head of External Affairs,Fiat Chrysler Automobiles Automotive ,['2017-01-24']
+
+ Ziad S Ojakli,Group Vice President of Government and Community Relations.,New York Post Media ,['2017-01-24']
+
+ Robert A Bradway,Chairman and CEO,Amgen Health ,['2017-01-31']
+
+ Joaquin Duato,Executive Vice President and Worldwide Chairman, Pharmaceuticals,Johnson & Johnson Health ,['2017-01-31']
+
+ Robert J Hugin,Executive Chairman,Celgene Health ,['2017-01-31']
+
+ Joseph Jimenez,CEO,Novartis Health ,['2017-01-31']
+
+ David A Ricks,President and CEO,Eli Lilly Health ,['2017-01-31']
+
+ Stephen J Ubl,CEO,PhRMA Health ,['2017-01-31']
+
+ Jamie Dimon,Chairman, President and CEO,JP Morgan Chase Finance ,['2017-02-03']
+
+ Oscar Munoz,CEO,United Airlines Aerospace ,['2017-02-09']
+
+ Ed Bastian,CEO,Delta Airlines Aerospace ,['2017-02-09']
+
+ Gary C Kelly,CEO,Southwest Airlines Aerospace ,['2017-02-09']
+
+ Brad Tilden,CEO,Alaska Airlines Aerospace ,['2017-02-09']
+
+ Steve Wynn,CEO,Wynn Resorts Entertainment ,['2017-02-12']
+
+ Elyse Allan,CEO,GE Canada Energy ,['2017-02-13']
+
+ Dawn Farrell,CEO,TransAlta Energy ,['2017-02-13']
+
+ Monique F Leroux,Chair of Board,Investissement Quebec Finance ,['2017-02-13']
+
+ Tina Lee,CEO,T & T Supermarket Food ,['2017-02-13']
+
+ Tamara Lundgren,CEO,Schnitzer Steel Industries Manufacturing ,['2017-02-13']
+
+ Carol Stephenson,Board of Directors,General Motors Automotive ,['2017-02-13']
+
+ Annette Verschuren,CEO,NRStor Inc. Technology ,['2017-02-13']
+
+ Bill Rhodes,President and CEO,Autozone Automotive ,['2017-02-15']
+
+ Brian Cornell,CEO,Target Retail ,['2017-02-15']
+
+ Hubert Joly,CEO,Best Buy Retail ,['2017-02-15']
+
+ Art Peck,CEO,Gap, Inc Retail ,['2017-02-15']
+
+ Stefano Pessina,CEO,Walgreens Boots Alliance Retail ,['2017-02-15']
+
+ Jill Soltau,CEO,Jo-Ann Stores Retail ,['2017-02-15']
+
+ Greg Sandfort,CEO,Tractor Supply Company Retail ,['2017-02-15']
+
+ Hal Quinn,President and CEO,National Mining Association Energy ,['2017-02-16']
+
+ Matt Evans,President of External Relations,Boich Companies Energy ,['2017-02-16']
+
+ Ryan Murray,Vice President- Operations,Murray Energy Energy ,['2017-02-16']
+
+ Casey Crooks,Superintendent,American Energy Corporation Energy ,['2017-02-16']
+
+ Kevin Hughes,General Manager,Murray Energy Energy ,['2017-02-16']
+
+ Scott Martin,General Superintendent,The Harrison County Coal Company Energy ,['2017-02-16']
+
+ Mark Zuckerberg,Chairman, CEO and Co-Founder,Facebook Technology ,[None]
+
+ John Hardison,General Manager,Anchor Longwall and Rebuild, Inc. Energy ,['2017-02-16']
+
+ Eric Grimm,General Manager,The Marshall County Coal Company Energy ,['2017-02-16']
+
+ Michael Carey,Vice President of Governmental Affairs,Murray Energy Energy ,['2017-02-16']
+
+ Gary Broadbent,Senior Corporate Counsel and Director of Investor and Media Relations,Murray Energy Energy ,['2017-02-16']
+
+ Michael Nelson,General Superintendent,,The Marion County Coal Company Energy ,['2017-02-16']
+
+ Tom Barrack,CEO, Former Chairman of Trump's Inaugural Committee,Colony Capital Real Estate ,['2017-02-21']
+
+ Henry Kravis,Co-Founder,Kohlberg Kravis Roberts Finance ,['2017-02-23']
+
+ Bill Brown,Chairman, President and CEO,Harris Corporation Technology ,['2017-02-23']
+
+ Denise Morrison,President and CEO,Campbell Soup Company Food ,['2017-02-23']
+
+ Doug Oberhelman,Executive Chairman,Caterpillar, Inc Construction ,['2017-02-23']
+
+ Don Althoff,President and CEO,Veresen Inc. Energy ,['2017-02-23']
+
+ Keith Leimbach,CEO,LiveOps Technology ,['2017-02-23']
+
+ Lee Styslinger,Chairman and CEO,Altec Energy ,['2017-02-23']
+
+ Phebe Novakovic,Chairman and CEO,General Dynamics Defense ,['2017-02-23']
+
+ James Kamsickas,CEO and President,Dana, Inc. Automotive ,['2017-02-23']
+
+ Stephen J Hemsley,President and CEO,UnitedHealth Group Health ,['2017-02-27']
+
+ Mark Bertolini,Chairman and CEO,Aetna Health ,['2017-02-27']
+
+ David Cordani,President and CEO,Cigna Health ,['2017-02-27']
+
+ Bruce Broussard,President and CEO,Humana Health ,['2017-02-27']
+
+ Scott Serota,President and CEO,Blue Cross Blue Shield Association Health ,['2017-02-27']
+
+ Matt Eyles,Executive Vice President,AHIP Health ,['2017-02-27']
+
+ Patrick Geraghty,CEO,Florida Blue Health ,['2017-02-27']
+
+ Dan Hilferty,CEO,Independence Blue Cross Health ,['2017-02-27']
+
+ Brad Wilson,President and CEO,BCBS North Carolina Health ,['2017-02-27']
+
+ Bernard Tyson,Chairman and CEO,Kaiser Permanente Health ,['2017-02-27']
+
+ Harvey Levin,Founder,TMZ Media ,['2017-03-01']
+
+ Laurene Jobs,Founder,Emerson Collective Education ,['2017-03-08']
+
+ Josh Harris,Co-Founder,Apollo Global Management Finance ,['2017-03-08']
+
+ Tyler Duvall,Partner,McKinsey & Company Finance ,['2017-03-08']
+
+ Luanne Cundiff,President and CEO,First State Bank of St. Charles Finance ,['2017-03-09']
+
+ Rebeca Romero Rainey,Chairman and CEO,Centinel Bank of Taos Finance ,['2017-03-09']
+
+ Dorothy Savarese,CEO,Cape Cod Five Mutual Company Finance ,['2017-03-09']
+
+ Laura Stewart,CEO,Sound Community Bank and Sound Financial Bancorp. Finance ,['2017-03-09']
+
+ Ken Burgess,Chairman,FirstCapital Bank of Texas Finance ,['2017-03-09']
+
+ Jeff Szyperski,CEO,Chesapeake Bank Finance ,['2017-03-09']
+
+ Leslie Andersen,President,Bank of Bennington Finance ,['2017-03-09']
+
+ Scott Heitkamp,President,ValueBank Texas Finance ,['2017-03-09']
+
+ Tim Zimmerman,President,Standard Bank Finance ,['2017-03-09']
+
+ Jerry Flannery,Interim President and CEO,Hyundai Motor Company Automotive ,['2017-03-15']
+
+ James Lentz,CEO,Toyota Motor North America Automotive ,['2017-03-15']
+
+ Jose Munoz,Chief Performance Officer, Chairman,Nissan Motor Company Automotive ,['2017-03-15']
+
+ Rick Schostek,Executive Vice President,Honda North America, Inc. Automotive ,['2017-03-15']
+
+ Michael Sprague,COO and Executive Vice President,Kia Motors America Automotive ,['2017-03-15']
+
+ Robert Kaiser,CEO,Gallagher Kaiser Automotive ,['2017-03-15']
+
+ David Dauch,CEO,AAM Automotive ,['2017-03-15']
+
+ Klaus Rosenfeld,CEO,Schaeffler AG Automotive ,['2017-03-17']
+
+ Marc Benioff,CEO,Salesforce Technology ,['2017-03-17']
+
+ Bill Gates,Co-Founder,Microsoft Technology ,['2017-03-20']
+
+ Nelson Peltz,Founding Partner,Trian Fund Management Finance ,['2017-03-23']
+
+ David Congdon,CEO,Old Dominion Freight Lines Transportation ,['2017-03-23']
+
+ Michael Ducker,President and CEO,FedEx Transportation ,['2017-03-23']
+
+ Jim Burg,Owner,JBTC Trucking Transportation ,['2017-03-23']
+
+ Kevin Burch,President,Jet Express Trucking Transportation ,['2017-03-23']
+
+ Dennis Nash,President and CEO,The Kenan Advantage Group Transportation ,['2017-03-23']
+
+ Eric Fuller,CEO,U.S. Xpress Enterprises Transportation ,['2017-03-23']
+
+ John Smith,Chairman,CRST Transportation ,['2017-03-23']
+
+ Rick McArdle,President,UPS Transportation ,['2017-03-23']
+
+ Jerry Langer,Chief Commerical Officer,Langer Transport Corporation Transportation ,['2017-03-23']
+
+ Russ Girling,President and CEO,TransCanada Energy ,['2017-03-24']
+
+ Thomas Rutledge,CEO,Charter Communications Communications/consulting ,['2017-03-24']
+
+ Drew Greenblatt,President,Marlin Steel Wire Products LLC Manufacturing ,['2017-03-31']
+
+ Karen Buchwald-Wright,President and CEO,Ariel Corporation Manufacturing ,['2017-03-31']
+
+ Tom Riordan,CEO,Neenah Enterprises Manufacturing ,['2017-03-31']
+
+ Patricia Miller,CEO,Matrix 4, Inc. Manufacturing ,['2017-03-31']
+
+ Kellie Johnson,President,ACE Clearwater Enterprises Manufacturing ,['2017-03-31']
+
+ Ed Paradowski,President,Apache Stainless Equipment Corp. Manufacturing ,['2017-03-31']
+
+ Steve Staub,President,Staub Manufacturing Solutions Manufacturing ,['2017-03-31']
+
+ Doug Magyari,CEO,IMMY Inc Manufacturing ,['2017-03-31']
+
+ Matt Barr,CEO,Carolina Color Corporation Manufacturing ,['2017-03-31']
+
+ Joe Eddy,President and CEO,Eagle Manufacturing Company Manufacturing ,['2017-03-31']
+
+ Chuck Wetherington,President,BTE Technologies, Inc. Health ,['2017-03-31']
+
+ Julie Copeland,President and CEO,Arbill Manufacturing ,['2017-03-31']
+
+ Cathy Engelbert,CEO,Deloitte Finance ,['2017-04-04']
+
+ Michael Corbat,CEO,Citigroup, Inc. Finance ,['2017-04-04']
+
+ Lee Ainslie,Managing Partner,Maverick Capital Finance ,['2017-04-04']
+
+ William H Berkman,Managing Partner,Associated Partners Finance ,['2017-04-04']
+
+ Frank J Bisignano,Chairman and CEO,First Data Corp. Finance ,['2017-04-04']
+
+ Michael Blair,Presiding Partner,Debevoise & Plimpton Finance ,['2017-04-04']
+
+ Jeff T Blau,CEO,The Related Companies Finance ,['2017-04-04']
+
+ Kathy Bloomgarden,CEO,Ruder Finn Finance ,['2017-04-04']
+
+ Patrick J Burke,CEO,HSBC Bank USA Finance ,['2017-04-04']
+
+ Thomas W Farley,President,NYSE Finance ,['2017-04-04']
+
+ John Fish,Chairman and CEO,Suffolk Finance ,['2017-04-04']
+
+ Mark T Gallogly,Co-Founder and Managing Principal,Centerbridge Partners Finance ,['2017-04-04']
+
+ Kenneth M Garschina,Managing Member and Principal,Mason Capital Management Finance ,['2017-04-04']
+
+ Gerald L Hassell,Chairman and CEO,BNY Mellon Finance ,['2017-04-04']
+
+ Robin Hayes,CEO,JetBlue Airways Corporation Aerospace ,['2017-04-04']
+
+ Paul Horgan,CEO,Zurich Insurance Group Insurance ,['2017-04-04']
+
+ Jerry Jacobs,Co-CEO,Delaware North Companies Food ,['2017-04-04']
+
+ Brad S Karp,Chair,Paul, Weiss, Rifkind, Wharton & Garrison Law ,['2017-04-04']
+
+ Richard A Kennedy,President and CEO,USA Building, SKANSKA Construction ,['2017-04-04']
+
+ Jeremy M Kroll,CEO and Co-Founder,Koch Industries Energy ,['2017-04-04']
+
+ David Levin,President and CEO,McGraw-Hill Education Education ,['2017-04-04']
+
+ Anthony E Mann,Chairman,E-J Electric Installation Co Energy ,['2017-04-04']
+
+ Heidi Messer,Co-Founder,Collective Intelligence Technology ,['2017-04-04']
+
+ Mitchell Modell,CEO,Modell's Sporting Goods Retail ,['2017-04-04']
+
+ Greg Mondre,Managing Partner and Managing Director,Silver Lake Technology ,['2017-04-04']
+
+ Deanna M Mulligan,President and CEO,The Guardian Life Insurance Company of America Insurance ,['2017-04-04']
+
+ John Paulson,President and Portfolio Manager,Paulson & Co Finance ,['2017-04-04']
+
+ Charles E Phillips,CEO,Infor Technology ,['2017-04-04']
+
+ James D Robinson,Managing Partner,RRE Ventures Technology ,['2017-04-04']
+
+ John Romeo,Managing Partner,Oliver Wyman Finance ,['2017-04-04']
+
+ Michael I Roth,Chairman and CEO,Interpublic Group Communications/consulting ,['2017-04-04']
+
+ Steven Rubenstein,President,Rubenstein Communications Communications/consulting ,['2017-04-04']
+
+ William C Rudin,CEO & Vice Chairman,Rudin Management Company Real Estate ,['2017-04-04']
+
+ Faiza Saeed,Presiding Partner,Cravath, Swaine & Moore LLP Law ,['2017-04-04']
+
+ Alan D Schwartz,Executive Chairman,Guggenheim Partners, LLC Finance ,['2017-04-04']
+
+ Robert K Steel,Partner and CEO,Perella Weinberg Partners Finance ,['2017-04-04']
+
+ Jason Stevens,President and CEO,Mitsubishi Corporation Automotive ,['2017-04-04']
+
+ Steven R Swartz,President and CEO,Hearst Media ,['2017-04-04']
+
+ Paul Taubman,Chairman and CEO,PJT Partners Finance ,['2017-04-04']
+
+ Jennifer Warren,Managing Director,Canadian Imperial Bank of Commerce Finance ,['2017-04-04']
+
+ Charles Weinstein,CEO,EisnerAmper LLP Finance ,['2017-04-04']
+
+ Christopher J Williams,Chairman, CEO and Founder,The Williams Capital Group Finance ,['2017-04-04']
+
+ Kathryn S Wylde,President and CEO,Partnership for New York City Finance ,['2017-04-04']
+
+ Strauss Zelnick,CEO,ZMC Finance ,['2017-04-04']
+
+ Matt Rose,Former CEO,BNSF Transportation ,['2017-04-11']
+
+ Beth Ludwig,Corporate Manager of Government Relations,AK Steel Manufacturing ,['2017-04-20']
+
+ Roger Newport,CEO,AK Steel Manufacturing ,['2017-04-20']
+
+ Thomas Gibson,CEO,American Iron & Steel Institute Manufacturing ,['2017-04-20']
+
